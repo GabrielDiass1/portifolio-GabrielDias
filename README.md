@@ -1,6 +1,4 @@
-# Título do projeto
-
-Portfólio Gabriel Dias
+# Portfólio Gabriel Dias
 
 ## 🛠️ Construído com
 
